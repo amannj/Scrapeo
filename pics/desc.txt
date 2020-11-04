@@ -1,0 +1,11 @@
+1	sonnig
+2	leicht bewoelkt
+3	bewoelkt
+4	stark bewoelkt
+5	
+6	Regen
+7	
+8	Nebel
+9	
+10	Regenschauer
+11	leichter Regen
