@@ -4,13 +4,113 @@ date,type,desc,tx,tn,sym
 2020-11-04 11:29,2-day fc,Nebel,7°,3°,8.png
 2020-11-04 11:29,3-day fc,Nebel,10°,4°,8.png
 2020-11-04 11:29,4-day fc,bewölkt,10°,6°,3.png
-2020-11-04 11:42,today,leichter Regen,7,5,11.png
-2020-11-04 11:42,1-day fc,Nebel,7°,3°,8.png
-2020-11-04 11:42,2-day fc,Nebel,7°,3°,8.png
-2020-11-04 11:42,3-day fc,Nebel,10°,4°,8.png
-2020-11-04 11:42,4-day fc,bewölkt,10°,6°,3.png
-2020-11-04 11:47,today,leichter Regen,7,5,11.png
-2020-11-04 11:47,1-day fc,Nebel,7°,3°,8.png
-2020-11-04 11:47,2-day fc,Nebel,7°,3°,8.png
-2020-11-04 11:47,3-day fc,Nebel,10°,4°,8.png
-2020-11-04 11:47,4-day fc,bewölkt,10°,6°,3.png
+2020-11-05 20:58,today,Nebel,7,4,8.png
+2020-11-05 20:58,1-day fc,Nebel,7°,2°,8.png
+2020-11-05 20:58,2-day fc,Nebel,10°,4°,8.png
+2020-11-05 20:58,3-day fc,leicht bewölkt,11°,6°,2.png
+2020-11-05 20:58,4-day fc,leicht bewölkt,10°,6°,2.png
+2020-11-06 21:10,today,Nebel,7,4,8.png
+2020-11-06 21:10,1-day fc,Nebel,10°,3°,8.png
+2020-11-06 21:10,2-day fc,leicht bewölkt,10°,6°,2.png
+2020-11-06 21:10,3-day fc,sonnig,10°,6°,1.png
+2020-11-06 21:10,4-day fc,Nebel,8°,5°,8.png
+2020-11-07 20:55,today,sonnig,10,3,1.png
+2020-11-07 20:55,1-day fc,leicht bewölkt,11°,5°,2.png
+2020-11-07 20:55,2-day fc,leicht bewölkt,9°,5°,2.png
+2020-11-07 20:55,3-day fc,Nebel,9°,5°,8.png
+2020-11-07 20:55,4-day fc,Nebel,9°,5°,8.png
+2020-11-08 20:29,today,leicht bewölkt,11,3,2.png
+2020-11-08 20:29,1-day fc,sonnig,10°,6°,1.png
+2020-11-08 20:29,2-day fc,Nebel,9°,5°,8.png
+2020-11-08 20:29,3-day fc,Nebel,9°,5°,8.png
+2020-11-08 20:29,4-day fc,leicht bewölkt,11°,5°,2.png
+2020-11-09 22:14,today,leicht bewölkt,10,6,2.png
+2020-11-09 22:14,1-day fc,Nebel,8°,5°,8.png
+2020-11-09 22:14,2-day fc,Nebel,7°,5°,8.png
+2020-11-09 22:14,3-day fc,leicht bewölkt,11°,5°,2.png
+2020-11-09 22:14,4-day fc,leicht bewölkt,10°,6°,2.png
+2020-11-10 23:14,today,leicht bewölkt,9,6,2.png
+2020-11-10 23:14,1-day fc,Nebel,8°,6°,8.png
+2020-11-10 23:14,2-day fc,leicht bewölkt,12°,6°,2.png
+2020-11-10 23:14,3-day fc,sonnig,12°,7°,1.png
+2020-11-10 23:14,4-day fc,leicht bewölkt,11°,6°,2.png
+2020-11-11 20:27,today,leicht bewölkt,8,5,2.png
+2020-11-11 20:27,1-day fc,leicht bewölkt,11°,5°,2.png
+2020-11-11 20:27,2-day fc,sonnig,11°,6°,1.png
+2020-11-11 20:27,3-day fc,leicht bewölkt,12°,7°,2.png
+2020-11-11 20:27,4-day fc,sonnig,13°,7°,1.png
+2020-11-12 16:32,today,leicht bewölkt,11,4,2.png
+2020-11-12 16:32,1-day fc,sonnig,12°,6°,1.png
+2020-11-12 16:32,2-day fc,sonnig,12°,8°,1.png
+2020-11-12 16:32,3-day fc,sonnig,14°,7°,1.png
+2020-11-12 16:32,4-day fc,Regenschauer,11°,7°,10.png
+2020-11-14 21:57,today,sonnig,13,8,1.png
+2020-11-14 21:57,1-day fc,sonnig,13°,7°,1.png
+2020-11-14 21:57,2-day fc,Regenschauer,11°,7°,10.png
+2020-11-14 21:57,3-day fc,leicht bewölkt,9°,5°,2.png
+2020-11-14 21:57,4-day fc,leicht bewölkt,11°,5°,2.png
+2020-11-15 19:41,today,sonnig,13,7,1.png
+2020-11-15 19:41,1-day fc,Regenschauer,11°,7°,10.png
+2020-11-15 19:41,2-day fc,leicht bewölkt,9°,5°,2.png
+2020-11-15 19:41,3-day fc,sonnig,10°,5°,1.png
+2020-11-15 19:41,4-day fc,Regenschauer,10°,6°,10.png
+2020-11-16 19:25,today,Regenschauer,12,8,10.png
+2020-11-16 19:25,1-day fc,sonnig,9°,5°,1.png
+2020-11-16 19:25,2-day fc,sonnig,9°,4°,1.png
+2020-11-16 19:25,3-day fc,Regenschauer,10°,6°,10.png
+2020-11-16 19:25,4-day fc,Schneeregen,4°,2°,9.png
+2020-11-17 18:04,today,leicht bewölkt,10,6,2.png
+2020-11-17 18:04,1-day fc,sonnig,10°,4°,1.png
+2020-11-17 18:04,2-day fc,Regenschauer,10°,7°,10.png
+2020-11-17 18:04,3-day fc,Schneeregenschauer,4°,2°,15.png
+2020-11-17 18:04,4-day fc,leicht bewölkt,3°,-2°,2.png
+2020-11-18 19:49,today,sonnig,10,5,1.png
+2020-11-18 19:49,1-day fc,Regenschauer,11°,7°,10.png
+2020-11-18 19:49,2-day fc,Schneeregenschauer,4°,2°,15.png
+2020-11-18 19:49,3-day fc,sonnig,4°,-2°,1.png
+2020-11-18 19:49,4-day fc,leicht bewölkt,7°,0°,2.png
+2020-11-19 19:50,today,Regenschauer,13,8,10.png
+2020-11-19 19:50,1-day fc,Schneeregenschauer,4°,1°,15.png
+2020-11-19 19:50,2-day fc,sonnig,2°,-3°,1.png
+2020-11-19 19:50,3-day fc,sonnig,6°,-1°,1.png
+2020-11-19 19:50,4-day fc,leicht bewölkt,6°,2°,2.png
+2020-11-19 19:50,today,Regenschauer,13,8,10.png
+2020-11-19 19:50,1-day fc,Schneeregenschauer,4°,1°,15.png
+2020-11-19 19:50,2-day fc,sonnig,2°,-3°,1.png
+2020-11-19 19:50,3-day fc,sonnig,6°,-1°,1.png
+2020-11-19 19:50,4-day fc,leicht bewölkt,6°,2°,2.png
+2020-11-20 19:38,today,Schneeregen,4,2,9.png
+2020-11-20 19:38,1-day fc,sonnig,3°,-3°,1.png
+2020-11-20 19:38,2-day fc,leicht bewölkt,6°,-1°,2.png
+2020-11-20 19:38,3-day fc,bewölkt,7°,3°,3.png
+2020-11-20 19:38,4-day fc,leicht bewölkt,6°,2°,2.png
+2020-11-21 18:22,today,sonnig,2,2,1.png
+2020-11-21 18:22,1-day fc,leicht bewölkt,6°,-2°,2.png
+2020-11-21 18:22,2-day fc,bewölkt,7°,3°,3.png
+2020-11-21 18:22,3-day fc,sonnig,5°,1°,1.png
+2020-11-21 18:22,4-day fc,sonnig,6°,1°,1.png
+2020-11-22 20:48,today,leicht bewölkt,6,1,2.png
+2020-11-22 20:48,1-day fc,leicht bewölkt,6°,2°,2.png
+2020-11-22 20:48,2-day fc,sonnig,4°,1°,1.png
+2020-11-22 20:48,3-day fc,leicht bewölkt,6°,1°,2.png
+2020-11-22 20:48,4-day fc,sonnig,6°,1°,1.png
+2020-11-23 19:38,today,leicht bewölkt,6,1,2.png
+2020-11-23 19:38,1-day fc,sonnig,3°,0°,1.png
+2020-11-23 19:38,2-day fc,sonnig,5°,0°,1.png
+2020-11-23 19:38,3-day fc,sonnig,5°,1°,1.png
+2020-11-23 19:38,4-day fc,leicht bewölkt,5°,1°,2.png
+2020-11-24 20:24,today,leicht bewölkt,3,0,2.png
+2020-11-24 20:24,1-day fc,sonnig,5°,0°,1.png
+2020-11-24 20:24,2-day fc,leicht bewölkt,5°,1°,2.png
+2020-11-24 20:24,3-day fc,leicht bewölkt,4°,1°,2.png
+2020-11-24 20:24,4-day fc,Nebel,3°,0°,8.png
+2020-11-25 22:50,today,sonnig,5,4,1.png
+2020-11-25 22:50,1-day fc,sonnig,6°,1°,1.png
+2020-11-25 22:50,2-day fc,sonnig,6°,2°,1.png
+2020-11-25 22:50,3-day fc,leicht bewölkt,5°,1°,2.png
+2020-11-25 22:50,4-day fc,Nebel,3°,1°,8.png
+2020-11-26 19:25,today,sonnig,5,2,1.png
+2020-11-26 19:25,1-day fc,sonnig,5°,1°,1.png
+2020-11-26 19:25,2-day fc,sonnig,3°,-1°,1.png
+2020-11-26 19:25,3-day fc,Nebel,1°,-1°,8.png
+2020-11-26 19:25,4-day fc,Nebel,-2°,-4°,8.png
