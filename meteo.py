@@ -18,7 +18,8 @@ soup_today = BeautifulSoup(page_today.content, 'html.parser')
 
 # Extract weather information today
 weather_today = soup_today.find('table', class_='ortswetter').text
-t_today       = re.findall("\d", weather_today)
+t_today       = re.findall("[0-9]*", weather_today)
+t_today       = [x for x in t_today if x != '']
 n_today       = weather_today[14:]
 n_today       = re.findall(".+?(?=\\\n)", n_today)[0]
 
