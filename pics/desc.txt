@@ -4,8 +4,12 @@
 4	stark bewoelkt
 5	
 6	Regen
-7	
+7	Schneefall
 8	Nebel
-9	
+9	Schneeregen
 10	Regenschauer
 11	leichter Regen
+12	Schneeschauer
+13
+14
+15	Schneeregenschauer
