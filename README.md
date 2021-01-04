@@ -1,7 +1,14 @@
-# Scrapeo - Scraping weather forecast data from meteo.ch?
+# Scrapeo - Scraping weather forecast data from meteo.ch.
 
 
-A simple web scraper which extracts daily weather data (actual plus the 4-day forecasts) from the Swiss weather service [Meteo](https://meteo.ch) for the region of St. Gallen.
+A simple web scraper which extracts daily weather forecast data from the Swiss weather service [Meteo](https://meteo.ch) for the region of [St. Gallen](https://meteo.ch/index.php?pid=29).
 
-File `meteo.py` runs once per day and generates an updated data set which is
-stored in folder `data`. The script is triggered automatically using a [cronjob](https://medium.com/analytics-vidhya/automating-and-scheduling-python-script-as-cronjobs-in-ubuntu-6b31fdbce3d1).
+
+### Content and functionality:
+
+- File `meteo.py` runs once per day and generates an updated data set which is
+stored in folder `data`. 
+- The Python script is triggered automatically using 
+either a [cronjob (Linux)](https://amannj.github.io/blog/) or
+the [Windows Scheduler (for Windows)](https://amannj.github.io/blog/).
+- Weather info graphs are stored in folder `pics`.
