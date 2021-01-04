@@ -9,6 +9,6 @@ A simple web scraper which extracts daily weather forecast data from the Swiss w
 - File `meteo.py` runs once per day and generates an updated data set which is
 stored in folder `data`. 
 - The Python script is triggered automatically using 
-either a [cronjob (Linux)](https://amannj.github.io/blog/) or
-the [Windows Scheduler (for Windows)](https://amannj.github.io/blog/).
-- Weather info graphs are stored in folder `pics`.
+either a [cronjob (Linux)](https://amannj.github.io/blog/2021/01/05/cronjobs) or
+the [Windows Scheduler (for Windows)](https://amannj.github.io/blog/2020/12/16/windows-scheduler).
+- Weather info graphs are stored in folder `pics` for further reference.
