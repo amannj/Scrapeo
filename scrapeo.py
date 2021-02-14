@@ -25,9 +25,10 @@ n_today       = re.findall(".+?(?=\\\n)", n_today)[0]
 
 
 # Weather symbols
-sym_list = []
-for sym in soup_today.find_all('img', class_ = "symbol"):
-    sym_list.append(sym.get('src')[8:])
+sym_list = [
+    sym.get('src')[8:]
+    for sym in soup_today.find_all('img', class_ = "symbol")
+]
 
 
 # Daily weather forecasts
