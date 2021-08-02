@@ -4,7 +4,7 @@
 |2.png      | leicht bewoelkt
 |3.png      | bewoelkt
 |4.png      | stark bewoelkt
-|5.png      | .
+|5.png      | Gewitter
 |6.png      | Regen
 |7.png      | Schneefall
 |8.png      | Nebel
