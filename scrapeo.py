@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import re
 import time
 
-
+# Define meteo extraction function
 def meteo_extract(loc_name): 
 
     #
@@ -32,7 +32,7 @@ def meteo_extract(loc_name):
     soup_today = BeautifulSoup(page_today.content, 'html.parser')
 
 
-    # Extract weather information today
+    # Extract weather today
     weather_today = soup_today.find('table', class_='ortswetter').text
     t_today       = re.findall("[0-9]*", weather_today)
     t_today       = [x for x in t_today if x != '']
@@ -46,20 +46,20 @@ def meteo_extract(loc_name):
     ]
 
 
-    # Daily weather forecasts
+    # Extract weather forecasts
     ## Temperature
     t_list = t_today
     for sym in soup_today.find_all('div', class_ = ("tx", "tn")):
         t_list.append(sym.string)
-    ## Names
+    ## Condition
     n_list = [n_today]
     for sym in soup_today.find_all('td')[6:11]:
         tmp = sym.text
         n_list.append(re.sub("Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag", "", tmp))
 
 
-    # Build data
-    ## Assemble
+    # Build dataset
+    ## Assemble new data
     d = {
         'date': [todaysDate] * 5,
         'type': ['today', '1-day fc', '2-day fc', '3-day fc', '4-day fc'],
@@ -69,12 +69,15 @@ def meteo_extract(loc_name):
         'sym' : sym_list
         }
     df = pd.DataFrame(data=d)
-    ## Append
-    loc = 'data/'+loc_name+'.csv'
+
+    ## Append to old data
+    loc = 'data/' + loc_name + '.csv'
     df_old = pd.read_csv(loc)
     df_new = df_old.append(df)
-    ## Save
+
+    ## Store updated data
     df_new.to_csv(loc, index = False)
+
 
     # Sleep for 3 seconds
     print(loc_name + ' done.')
