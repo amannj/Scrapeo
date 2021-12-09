@@ -374,3 +374,8 @@ date,type,desc,tx,tn,sym
 2021-12-08 17:45,2-day fc,Schneefall,2°,-3°,7.png
 2021-12-08 17:45,3-day fc,Schneeregenschauer,3°,-1°,15.png
 2021-12-08 17:45,4-day fc,Nebel,2°,-2°,8.png
+2021-12-09 17:45,today,Schneeregenschauer,3,0,15.png
+2021-12-09 17:45,1-day fc,Schneefall,2°,-3°,7.png
+2021-12-09 17:45,2-day fc,Schneeregenschauer,3°,0°,15.png
+2021-12-09 17:45,3-day fc,Regenschauer,3°,-2°,10.png
+2021-12-09 17:45,4-day fc,Nebel,5°,1°,8.png
