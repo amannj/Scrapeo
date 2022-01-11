@@ -429,3 +429,8 @@ date,type,desc,tx,tn,sym
 2022-01-05 18:45,2-day fc,Schneeschauer,2°,-4°,12.png
 2022-01-05 18:45,3-day fc,Schneeregenschauer,4°,0°,15.png
 2022-01-05 18:45,4-day fc,Schneeregenschauer,4°,1°,15.png
+2022-01-11 18:45,today,leicht bewölkt,2,1,2.png
+2022-01-11 18:45,1-day fc,leicht bewölkt,0°,-5°,2.png
+2022-01-11 18:45,2-day fc,leicht bewölkt,1°,-6°,2.png
+2022-01-11 18:45,3-day fc,Nebel,2°,-6°,8.png
+2022-01-11 18:45,4-day fc,Nebel,3°,-3°,8.png
