@@ -1644,3 +1644,8 @@ date,type,desc,tx,tn,sym
 2022-01-24 19:02,2-day fc,sonnig,2°,-3°,1.png
 2022-01-24 19:02,3-day fc,Regenschauer,3°,-2°,10.png
 2022-01-24 19:02,4-day fc,Schneeschauer,2°,0°,12.png
+2022-02-01 18:45,today,Schneefall,2,2,7.png
+2022-02-01 18:45,1-day fc,Regen,5°,0°,6.png
+2022-02-01 18:45,2-day fc,Regenschauer,8°,3°,10.png
+2022-02-01 18:45,3-day fc,Regenschauer,7°,3°,10.png
+2022-02-01 18:45,4-day fc,Schneeregenschauer,4°,1°,15.png
