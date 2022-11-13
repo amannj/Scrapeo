@@ -1299,3 +1299,13 @@ date,type,desc,tx,tn,sym
 2022-11-08 18:45,2-day fc,Regenschauer,12°,8°,10.png
 2022-11-08 18:45,3-day fc,Nebel,9°,5°,8.png
 2022-11-08 18:45,4-day fc,Nebel,9°,4°,8.png
+2022-11-11 22:00,today,Nebel,11,6,8.png
+2022-11-11 22:00,1-day fc,Nebel,11°,5°,8.png
+2022-11-11 22:00,2-day fc,Nebel,10°,5°,8.png
+2022-11-11 22:00,3-day fc,Regenschauer,10°,5°,10.png
+2022-11-11 22:00,4-day fc,Nebel,11°,6°,8.png
+2022-11-13 18:45,today,Nebel,9,5,8.png
+2022-11-13 18:45,1-day fc,Regenschauer,10°,5°,10.png
+2022-11-13 18:45,2-day fc,bewölkt,11°,6°,3.png
+2022-11-13 18:45,3-day fc,Regenschauer,10°,7°,10.png
+2022-11-13 18:45,4-day fc,Nebel,11°,5°,8.png
