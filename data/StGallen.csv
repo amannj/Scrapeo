@@ -2529,3 +2529,8 @@ date,type,desc,tx,tn,sym
 2022-11-27 23:51,2-day fc,Regenschauer,5°,3°,10.png
 2022-11-27 23:51,3-day fc,leichter Regen,3°,2°,11.png
 2022-11-27 23:51,4-day fc,Nebel,1°,0°,8.png
+2022-11-30 09:59,today,leichter Regen,3,2,11.png
+2022-11-30 09:59,1-day fc,Nebel,1°,0°,8.png
+2022-11-30 09:59,2-day fc,Nebel,1°,-1°,8.png
+2022-11-30 09:59,3-day fc,Nebel,0°,-2°,8.png
+2022-11-30 09:59,4-day fc,Nebel,2°,-2°,8.png
