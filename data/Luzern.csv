@@ -1459,3 +1459,8 @@ date,type,desc,tx,tn,sym
 2023-01-14 18:45,2-day fc,Regenschauer,5°,-1°,10.png
 2023-01-14 18:45,3-day fc,Schneeregenschauer,3°,0°,15.png
 2023-01-14 18:45,4-day fc,Schneeschauer,1°,-1°,12.png
+2023-01-15 18:45,today,Regenschauer,9,5,10.png
+2023-01-15 18:45,1-day fc,Regenschauer,6°,0°,10.png
+2023-01-15 18:45,2-day fc,Schneeregenschauer,4°,0°,15.png
+2023-01-15 18:45,3-day fc,Schneefall,2°,0°,7.png
+2023-01-15 18:45,4-day fc,Schneeschauer,1°,-1°,12.png
