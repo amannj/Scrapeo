@@ -2449,3 +2449,8 @@ date,type,desc,tx,tn,sym
 2025-01-08 18:45,2-day fc,Regen,5°,1°,6.png
 2025-01-08 18:45,3-day fc,Regenschauer,4°,2°,10.png
 2025-01-08 18:45,4-day fc,bewölkt,0°,-2°,3.png
+2025-01-10 18:45,today,Regenschauer,4,2,10.png
+2025-01-10 18:45,1-day fc,Schneeschauer,2°,1°,12.png
+2025-01-10 18:45,2-day fc,leicht bewölkt,0°,-3°,2.png
+2025-01-10 18:45,3-day fc,leicht bewölkt,-2°,-6°,2.png
+2025-01-10 18:45,4-day fc,leicht bewölkt,-1°,-7°,2.png
