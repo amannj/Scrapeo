@@ -3064,3 +3064,8 @@ date,type,desc,tx,tn,sym
 2025-11-17 18:45,2-day fc,Regenschauer,4°,-4°,10.png
 2025-11-17 18:45,3-day fc,Schneeregenschauer,3°,0°,15.png
 2025-11-17 18:45,4-day fc,Schneeschauer,1°,-2°,12.png
+2025-11-19 18:45,today,Regenschauer,4,3,10.png
+2025-11-19 18:45,1-day fc,Schneefall,2°,0°,7.png
+2025-11-19 18:45,2-day fc,Schneefall,0°,-2°,7.png
+2025-11-19 18:45,3-day fc,leicht bewölkt,0°,-3°,2.png
+2025-11-19 18:45,4-day fc,Schneeschauer,0°,-5°,12.png
