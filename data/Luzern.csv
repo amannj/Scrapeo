@@ -3234,3 +3234,8 @@ date,type,desc,tx,tn,sym
 2026-01-20 18:45,2-day fc,Nebel,3°,-3°,8.png
 2026-01-20 18:45,3-day fc,Nebel,4°,-2°,8.png
 2026-01-20 18:45,4-day fc,Regenschauer,4°,0°,10.png
+2026-01-21 20:00,today,Nebel,4,3,8.png
+2026-01-21 20:00,1-day fc,Nebel,3°,-3°,8.png
+2026-01-21 20:00,2-day fc,Nebel,4°,-1°,8.png
+2026-01-21 20:00,3-day fc,Regenschauer,4°,0°,10.png
+2026-01-21 20:00,4-day fc,Regenschauer,3°,0°,10.png
