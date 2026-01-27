@@ -3244,3 +3244,8 @@ date,type,desc,tx,tn,sym
 2026-01-21 20:00,2-day fc,Schneefall,2°,1°,7.png
 2026-01-21 20:00,3-day fc,Regenschauer,3°,0°,10.png
 2026-01-21 20:00,4-day fc,Regenschauer,4°,1°,10.png
+2026-01-27 18:45,today,Regenschauer,5,2,10.png
+2026-01-27 18:45,1-day fc,Regen,4°,2°,6.png
+2026-01-27 18:45,2-day fc,leicht bewölkt,7°,2°,2.png
+2026-01-27 18:45,3-day fc,leicht bewölkt,6°,2°,2.png
+2026-01-27 18:45,4-day fc,leicht bewölkt,5°,2°,2.png
