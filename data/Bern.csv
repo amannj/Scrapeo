@@ -3339,3 +3339,8 @@ date,type,desc,tx,tn,sym
 2026-02-15 18:45,2-day fc,Gewitter,6°,3°,5.png
 2026-02-15 18:45,3-day fc,Regenschauer,6°,0°,10.png
 2026-02-15 18:45,4-day fc,Regen,5°,1°,6.png
+2026-02-17 18:45,today,Gewitter,5,1,5.png
+2026-02-17 18:45,1-day fc,leichter Regen,5°,-1°,11.png
+2026-02-17 18:45,2-day fc,Regen,5°,1°,6.png
+2026-02-17 18:45,3-day fc,Regenschauer,6°,2°,10.png
+2026-02-17 18:45,4-day fc,Regenschauer,9°,1°,10.png

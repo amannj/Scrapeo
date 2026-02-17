@@ -3314,3 +3314,8 @@ date,type,desc,tx,tn,sym
 2026-02-15 18:45,2-day fc,Schneeregenschauer,8°,2°,15.png
 2026-02-15 18:45,3-day fc,Regenschauer,8°,0°,10.png
 2026-02-15 18:45,4-day fc,Regenschauer,8°,2°,10.png
+2026-02-17 18:45,today,Schneeregenschauer,7,1,15.png
+2026-02-17 18:45,1-day fc,Regenschauer,7°,-1°,10.png
+2026-02-17 18:45,2-day fc,Regenschauer,7°,3°,10.png
+2026-02-17 18:45,3-day fc,Regenschauer,9°,2°,10.png
+2026-02-17 18:45,4-day fc,Regenschauer,10°,-1°,10.png
